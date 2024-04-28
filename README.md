@@ -1,4 +1,4 @@
-# Transaction Unique Names Counter
+# Unique Names Counter
 
 ## Introduction
 This program is designed to count the number of unique names in a transaction, taking into account various scenarios such as middle names, nicknames, and typos.
